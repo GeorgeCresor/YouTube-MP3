@@ -1,5 +1,7 @@
 # YouTube-MP3
 
+<img src="https://github.com/GeorgeCresor/YouTube-MP3/blob/main/yt.png"/>
+
 **YouTube.com is the largest video sharing platform on the Internet. Every day millions of new videos are added. You can find all kinds of videos but YouTube does not offer a FREE downloading service for these videos**
 
 **YTMP3 allows you to download your favorite YouTube videos as MP3 (audio) or MP4 (video) files in the most efficient way. You are able to use YTMP3 on any device – it is optimized to work on desktop, tablet and mobile devices. There is also no additional software or app needed**
@@ -16,3 +18,4 @@
 
 +  *As soon as the conversion of the video is completed you will see a „Download” button. Just click on it, and the download shall start*
 
+<img src="https://github.com/GeorgeCresor/YouTube-MP3/blob/main/dl.png"/>
